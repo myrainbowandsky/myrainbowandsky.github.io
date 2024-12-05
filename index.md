@@ -7,6 +7,15 @@ layout: default
 <!-- [Link to another page](./another-page.html). -->
 
 # Less is fun.
+![Octocat](https://myrainbowandsky.github.io/wentao.png)
+
+
+* Wentao Xu (Doctor of Informatics)
+* Associate Researcher
+* Department of Science and Technology Communication
+* University of Science and Technology of China (USTC)
+* Research Interests: Intelligent psychology, computational social science, NLP, social networks, social media, artificial intelligence, larger language models.
+* Email: myrainbowandsky[aT]gmail.com
 
 # News
 
