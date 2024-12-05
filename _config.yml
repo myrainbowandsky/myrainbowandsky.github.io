@@ -1,6 +1,6 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: Less is fun
+description: Wentao's Homepage.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
