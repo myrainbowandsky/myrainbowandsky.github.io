@@ -2,17 +2,42 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+<!-- [Link to another page](./another-page.html). -->
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Less is fun.
 
 # News
 
 Wentao Xu 2024. Characterization of Political Polarized Users Attacked by Language Toxicity on Twitter. In Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing (CSCW Companion '24). Association for Computing Machinery, New York, NY, USA, 185–189. https://doi.org/10.1145/3678884.3681849
+
+
+# Dear Colleagues,
+
+The Matthew effect is pervasive across scientific fields: researchers with greater resources and funding tend to produce more publications and garner more recognition, further attracting additional support. While it may seem fair that those with more advantages can tackle complex challenges, this creates a pyramid-like structure where those at lower levels face intensified competition and fewer opportunities.
+
+This reality is especially challenging for young and talented researchers. Despite their potential, they often lack the financial resources, institutional support, and connections to prominent figures in the field. While they may be free to pursue their interests, they are not truly "independent" researchers.
+
+To address this imbalance, I propose a simple yet powerful solution: collaboration. Let us work together, pooling our ideas, skills, and resources to pursue compelling research topics. By fostering cooperation and mutual support, we can create a win-win situation where every participant, regardless of their current standing, has the opportunity to produce impactful work.
+
+Currently, we are exploring several exciting ideas in computational social science, and I aspire for our work to be published in leading journals such as Nature, Nature Communications, Humanities & Social Sciences Communications, Nature Machine Intelligence, and Nature Human Behaviour.
+
+Let’s unite our efforts to demonstrate that "small names" can achieve extraordinary results. If you are interested in collaborating, I would be thrilled to discuss ideas and opportunities further.
+
+
+# About ME:
+## Education:
+> Oct. 2019 - Sept. 2022     Doctor in Informatics, Department of Complex Systems Sciences, Graduate School of Informatics, Nagoya University, Japan .
+> Sept. 2009 - Aug. 2010     Master of Science in Industrial Economics (Entrepreneurship and Innovation Management), School of Industrial Engineering Management, Royal Institute of Technology, Sweden.
+> Sept. 2007 - Sept 2008     Master of Research in Regenerative Medicine, Department of Biology & Biochemistry, University of Bath, UK. 
+
+
+## Award
+> Dec. 2019     The First Prize Award and HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
+> Dec. 2019     HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
+> Oct. 2007      University of Bath International Scholarship
+
 
 ## Header 2
 
