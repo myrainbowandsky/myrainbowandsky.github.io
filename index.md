@@ -38,8 +38,32 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 * Dec. 2019     HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
 * Oct. 2007      University of Bath International Scholarship
 
+# Publications
 
-## Header 2
+* Wentao Xu 2024. Characterization of Political Polarized Users Attacked by Language Toxicity on Twitter. In Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing (CSCW Companion '24). Association for Computing Machinery, New York, NY, USA, 185–189. https://doi.org/10.1145/3678884.3681849
+* Wentao Xu (2024), et. al, A multidisciplinary framework for deconstructing bots' pluripotency in dualistic antagonism, arXiv:2402.15119
+* Wentao Xu and Kazutoshi Sasahara(2023). Domain-based user embedding for competing events on social media. ArXiv, abs/2308.14806
+* Wentao Xu and Kazutoshi Sasahara (2022), "A Network-Based Approach to QAnon User Dynamics and Topic Diversity During the COVID-19 Infodemic", APSIPA Transactions on Signal and Information Processing: Vol. 11: No. 1, e17, 
+* Wentao Xu and Kazutoshi Sasahara Characterizing the roles of bots on Twitter during the COVID-19 infodemic. J Comput Soc Sc 5, 591–609 (2022). https://doi.org/10.1007/s42001-021-00139-3
+* Wentao Xu and Zihong Ye, Support Vector Machines Based Recognition of Human Core Promoter. Anhui Agricultural Science Bulletin,  2006; 12(13): 64-66, 76; (in Chinese)
+* Wentao Xu and Zihong Ye, Support Vector Machines Based Approach to Recognition of Core Promoter. Anhui. Agricultural Science Bulletin,  2006;12 (13): 71-74, 200 (in Chinese)
+
+
+# Conferences:
+* Wentao Xu and Bin Wang, Language Toxicity Patterns of Politically-Polarized Twitter Replies During the COVID-19 Pandemic, 9th International Conference in Computational Social Science (IC2S2 2023), Copenhagen, Denmark, July 17-20, 2023
+* Wentao Xu, Bin Wang, Jianxun Chu, Network-based Approach to User Engagement and Coordination during the Russo-Ukrainian War, 9th International Conference in Computational Social Science (IC2S2 2023), Copenhagen, Denmark, July 17-20, 2023
+* Wentao Xu and Kazutoshi Sasahara, QAnon User Dynamics And Topical Diversity Amid The COVID-19 Infodemic，International Conference in Computational Social Science (IC2S2), Chicago, July, 2022
+* Wentao Xu and Kazutoshi Sasahara, A network perspective on QAnon movement during COVID-19 infodemic, COMPLEX NETWORKS 2021 (The 10th International Conference on Complex Networks and their Applications, Madrid, Spain, Nov.-Dec. 2021
+* Wentao Xu and Kazutoshi Sasahara, Twitter Bot Networks and Activity Patterns during the COVID-19 Infodemic at the International Conference in Computational Social Science (IC2S2), July 2021
+* Wentao Xu and Kazutoshi Sasahara, Network and behavioral patterns of bots during the early COVID-19 infodemic, The 35th Annual Conference of the Japanese Society for Artificial Intelligence, 2021 (JSAI 2021), June 2021
+* Wentao Xu and Kazutoshi Sasahara, Characterizing the roles of bots during the COVID-19 infodemic on Twitter, at The Fifth Computational Social Science Japan Workshop (CSSJ2021), Kobe University. Feb 2021
+* Wentao Xu and Kazutoshi Sasahara, Fake News Characterization Using Linguistic Features at The Fourth Computational Social Science Japan Workshop (CSSJ2020), Kobe University, Feb 2020 
+
+# Academic Service:
+* Guest Edtor for PLOSONE
+* Reviewed for Frontiers in Public Health, section Infectious Diseases – Surveillance, Prevention and Treatment, Journal of Social Media + Society, Journal of Frontiers in Physics （section Social Physics）
+
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -146,3 +170,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+ -->
