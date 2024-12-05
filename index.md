@@ -17,10 +17,9 @@ layout: default
 * Research Interests: Intelligent psychology, computational social science, NLP, social networks, social media, artificial intelligence, larger language models.
 * Email: myrainbowandsky[aT]gmail.com
 
-# News
+# Discussions
 
-Wentao Xu 2024. Characterization of Political Polarized Users Attacked by Language Toxicity on Twitter. In Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing (CSCW Companion '24). Association for Computing Machinery, New York, NY, USA, 185–189. https://doi.org/10.1145/3678884.3681849
-
+Recently, agents have emerged as a prominent model for studying social science, particularly due to their utility in simulations. While large language models represent a significant milestone in artificial intelligence, they are not the ultimate form of AI but rather an initial and foundational stage. Since behavior arises from intricate psychological and cognitive processes, machines may eventually exhibit behavior governed by their own psychological and cognitive mechanisms. I refer to this phenomenon as intelligent psychology. Although large language models do not represent the final stage of AI development, they can, to some extent, simulate psychological processes. (December 5, 2024)
 
 # Dear Colleagues,
 
