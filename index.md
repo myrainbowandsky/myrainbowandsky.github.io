@@ -6,7 +6,7 @@ layout: default
 
 <!-- [Link to another page](./another-page.html). -->
 
-# Less is fun.
+
 ![Octocat](https://myrainbowandsky.github.io/wentao.png)
 
 
