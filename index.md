@@ -63,7 +63,6 @@ Currently, we are exploring several exciting ideas in computational social scien
 Let’s unite our efforts to demonstrate that "small names" can achieve extraordinary results. If you are interested in collaborating, I would be thrilled to discuss ideas and opportunities further.
 
 
-# About ME:
 # Education:
 * Oct. 2019 - Sept. 2022     Doctor in Informatics, Department of Complex Systems Sciences, Graduate School of Informatics, Nagoya University, Japan .
 * Sept. 2009 - Aug. 2010     Master of Science in Industrial Economics (Entrepreneurship and Innovation Management), School of Industrial Engineering Management, Royal Institute of Technology, Sweden.
@@ -95,9 +94,10 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 * Reviewed for Frontiers in Public Health, section Infectious Diseases – Surveillance, Prevention and Treatment, Journal of Social Media + Society, Journal of Frontiers in Physics （section Social Physics）
 
 # Award
-* Dec. 2019     The First Prize Award and HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
-* Dec. 2019     HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
-* Oct. 2007      University of Bath International Scholarship
+* Oct. 2020, Interdisciplinary Frontier Next Generation Researcher, The Program is implemented by JST’s Challenging Research Program for Next Generation Researchers, and the Tokai National Higher Education and Research System (THERS).
+* Dec. 2019, The First Prize Award and HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
+* Dec. 2019, HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
+* Oct. 2007, University of Bath International Scholarship
 
 
 <!-- ## Header 2
