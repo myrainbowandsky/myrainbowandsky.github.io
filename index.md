@@ -47,7 +47,7 @@ If this sounds like you, we’d love to hear from you! Join us in shaping the fu
 
 # Ideas
 
-Recently, agents have emerged as a prominent model for studying social science, particularly due to their utility in simulations. While large language models represent a significant milestone in artificial intelligence, they are not the ultimate form of AI but rather an initial and foundational stage. Since behavior arises from intricate psychological and cognitive processes, machines may eventually exhibit behavior governed by their own psychological and cognitive mechanisms. I refer to this phenomenon as intelligent psychology. Although large language models do not represent the final stage of AI development, they can, to some extent, simulate psychological processes. (December 5, 2024)
+Recently, agents have emerged as a prominent model for studying social science, particularly due to their utility in simulations. While large language models represent a significant milestone in artificial intelligence, they are not the ultimate form of AI but rather an initial and foundational stage. Since behavior arises from intricate psychological and cognitive processes, machines may eventually exhibit behavior governed by their own psychological and cognitive mechanisms. I refer to this phenomenon as ***intelligent psychology***. Although large language models do not represent the final stage of AI development, they can, to some extent, simulate psychological processes. (December 5, 2024)
 
 # Dear Colleagues,
 
