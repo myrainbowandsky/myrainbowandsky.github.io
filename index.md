@@ -17,7 +17,37 @@ layout: default
 * Research Interests: Intelligent psychology, computational social science, NLP, social networks, social media, artificial intelligence, larger language models.
 * Email: myrainbowandsky[aT]gmail.com
 
-# Discussions
+# For perspective students
+# Join Our Research Team!  
+
+Are you ready to dive into cutting-edge research that bridges technology and society? We are looking for **enthusiastic, open-minded, and creative thinkers** to join our team as **Ph.D. or Master's students**.  
+
+Our research focuses on **computational social science, AI agents, complex networks, and large language models**, offering a unique opportunity to explore the interplay between science, society, and technology. Whether your background is in **STEM, social sciences, or politics**, we believe in the power of interdisciplinary collaboration to solve complex, real-world problems.  
+
+## Why Join Us?  
+- **Innovative Research:**  
+  We tackle timely and impactful topics, from understanding online discourse and misinformation to building AI-driven tools for social good.  
+- **Collaborative Environment:**  
+  We value teamwork and encourage diverse perspectives. You'll work alongside experts and peers who are passionate about making a difference.  
+- **Support for Your Ideas:**  
+  Out-of-the-box thinking is not just welcomed—it’s encouraged! Bring your ideas to life with our supportive mentorship and resources.  
+- **Global Impact:**  
+  Our research addresses global challenges, providing insights into human behavior, technology adoption, and policy-making.  
+
+## What We Look For:  
+- **Enthusiasm and Communication Skills:**  
+  We value curiosity and the ability to convey your ideas effectively.  
+- **Interdisciplinary Mindset:**  
+  We’re seeking individuals who are open to exploring the intersections of technology, society, and policy.  
+- **Creative Problem-Solving:**  
+  Your ability to think beyond conventional boundaries will make you a vital part of our team.  
+
+If this sounds like you, we’d love to hear from you! Join us in shaping the future of science and society. **Let's push boundaries and create meaningful change—together.**
+
+
+
+
+# Ideas
 
 Recently, agents have emerged as a prominent model for studying social science, particularly due to their utility in simulations. While large language models represent a significant milestone in artificial intelligence, they are not the ultimate form of AI but rather an initial and foundational stage. Since behavior arises from intricate psychological and cognitive processes, machines may eventually exhibit behavior governed by their own psychological and cognitive mechanisms. I refer to this phenomenon as intelligent psychology. Although large language models do not represent the final stage of AI development, they can, to some extent, simulate psychological processes. (December 5, 2024)
 
@@ -40,12 +70,6 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 * Sept. 2009 - Aug. 2010     Master of Science in Industrial Economics (Entrepreneurship and Innovation Management), School of Industrial Engineering Management, Royal Institute of Technology, Sweden.
 * Sept. 2007 - Sept 2008     Master of Research in Regenerative Medicine, Department of Biology & Biochemistry, University of Bath, UK. 
 
-
-## Award
-* Dec. 2019     The First Prize Award and HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
-* Dec. 2019     HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
-* Oct. 2007      University of Bath International Scholarship
-
 # Publications
 
 * Wentao Xu 2024. Characterization of Political Polarized Users Attacked by Language Toxicity on Twitter. In Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing (CSCW Companion '24). Association for Computing Machinery, New York, NY, USA, 185–189. https://doi.org/10.1145/3678884.3681849
@@ -60,7 +84,7 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 # Conferences:
 * Wentao Xu and Bin Wang, Language Toxicity Patterns of Politically-Polarized Twitter Replies During the COVID-19 Pandemic, 9th International Conference in Computational Social Science (IC2S2 2023), Copenhagen, Denmark, July 17-20, 2023
 * Wentao Xu, Bin Wang, Jianxun Chu, Network-based Approach to User Engagement and Coordination during the Russo-Ukrainian War, 9th International Conference in Computational Social Science (IC2S2 2023), Copenhagen, Denmark, July 17-20, 2023
-* Wentao Xu and Kazutoshi Sasahara, QAnon User Dynamics And Topical Diversity Amid The COVID-19 Infodemic，International Conference in Computational Social Science (IC2S2), Chicago, July, 2022
+* Wentao Xu and Kazutoshi Sasahara, QAnon User Dynamics And Topical Diversity Amid The COVID-19 Infodemic, International Conference in Computational Social Science (IC2S2), Chicago, July, 2022
 * Wentao Xu and Kazutoshi Sasahara, A network perspective on QAnon movement during COVID-19 infodemic, COMPLEX NETWORKS 2021 (The 10th International Conference on Complex Networks and their Applications, Madrid, Spain, Nov.-Dec. 2021
 * Wentao Xu and Kazutoshi Sasahara, Twitter Bot Networks and Activity Patterns during the COVID-19 Infodemic at the International Conference in Computational Social Science (IC2S2), July 2021
 * Wentao Xu and Kazutoshi Sasahara, Network and behavioral patterns of bots during the early COVID-19 infodemic, The 35th Annual Conference of the Japanese Society for Artificial Intelligence, 2021 (JSAI 2021), June 2021
@@ -70,6 +94,12 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 # Academic Service:
 * Guest Editor for PLOSONE
 * Reviewed for Frontiers in Public Health, section Infectious Diseases – Surveillance, Prevention and Treatment, Journal of Social Media + Society, Journal of Frontiers in Physics （section Social Physics）
+
+## Award
+* Dec. 2019     The First Prize Award and HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
+* Dec. 2019     HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
+* Oct. 2007      University of Bath International Scholarship
+
 
 <!-- ## Header 2
 
