@@ -64,7 +64,7 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 
 
 # About ME:
-## Education:
+# Education:
 * Oct. 2019 - Sept. 2022     Doctor in Informatics, Department of Complex Systems Sciences, Graduate School of Informatics, Nagoya University, Japan .
 * Sept. 2009 - Aug. 2010     Master of Science in Industrial Economics (Entrepreneurship and Innovation Management), School of Industrial Engineering Management, Royal Institute of Technology, Sweden.
 * Sept. 2007 - Sept 2008     Master of Research in Regenerative Medicine, Department of Biology & Biochemistry, University of Bath, UK. 
@@ -94,7 +94,7 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 * Guest Editor for PLOSONE
 * Reviewed for Frontiers in Public Health, section Infectious Diseases – Surveillance, Prevention and Treatment, Journal of Social Media + Society, Journal of Frontiers in Physics （section Social Physics）
 
-## Award
+# Award
 * Dec. 2019     The First Prize Award and HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
 * Dec. 2019     HITACHI Special Award, The Second NTT Twitter Innovation Contest, Tokyo, 2019
 * Oct. 2007      University of Bath International Scholarship
