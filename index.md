@@ -18,7 +18,6 @@ layout: default
 * Email: myrainbowandsky[aT]gmail.com
 
 # For perspective students
-# Join Our Research Team!  
 
 Are you ready to dive into cutting-edge research that bridges technology and society? We are looking for **enthusiastic, open-minded, and creative thinkers** to join our team as **Ph.D. or Master's students**.  
 
