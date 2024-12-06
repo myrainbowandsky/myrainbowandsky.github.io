@@ -1,7 +1,7 @@
 title: Less is fun
 description: Wentao's Homepage.
 show_downloads: false
-google_analytics:
+google_analytics: _includes/analytics.html
 theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
