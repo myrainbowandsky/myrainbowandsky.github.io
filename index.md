@@ -64,11 +64,11 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 * Wentao Xu and Kazutoshi Sasahara, A network perspective on QAnon movement during COVID-19 infodemic, COMPLEX NETWORKS 2021 (The 10th International Conference on Complex Networks and their Applications, Madrid, Spain, Nov.-Dec. 2021
 * Wentao Xu and Kazutoshi Sasahara, Twitter Bot Networks and Activity Patterns during the COVID-19 Infodemic at the International Conference in Computational Social Science (IC2S2), July 2021
 * Wentao Xu and Kazutoshi Sasahara, Network and behavioral patterns of bots during the early COVID-19 infodemic, The 35th Annual Conference of the Japanese Society for Artificial Intelligence, 2021 (JSAI 2021), June 2021
-* Wentao Xu and Kazutoshi Sasahara, Characterizing the roles of bots during the COVID-19 infodemic on Twitter, at The Fifth Computational Social Science Japan Workshop (CSSJ2021), Kobe University. Feb 2021
-* Wentao Xu and Kazutoshi Sasahara, Fake News Characterization Using Linguistic Features at The Fourth Computational Social Science Japan Workshop (CSSJ2020), Kobe University, Feb 2020 
+* Wentao Xu and Kazutoshi Sasahara, Characterizing the roles of bots during the COVID-19 infodemic on Twitter, at The Fifth Computational Social Science Japan Workshop (CSSJ 2021), Kobe University. Feb 2021
+* Wentao Xu and Kazutoshi Sasahara, Fake News Characterization Using Linguistic Features at The Fourth Computational Social Science Japan Workshop (CSSJ 2020), Kobe University, Feb 2020 
 
 # Academic Service:
-* Guest Edtor for PLOSONE
+* Guest Editor for PLOSONE
 * Reviewed for Frontiers in Public Health, section Infectious Diseases – Surveillance, Prevention and Treatment, Journal of Social Media + Society, Journal of Frontiers in Physics （section Social Physics）
 
 <!-- ## Header 2
