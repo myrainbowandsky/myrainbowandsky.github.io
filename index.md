@@ -63,8 +63,8 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 
 
 # Education:
-* Oct. 2019 - Sept. 2022     Doctor in Informatics, Department of Complex Systems Sciences, Graduate School of Informatics, Nagoya University, Japan .
-* Sept. 2009 - Aug. 2010     Master of Science in Industrial Economics (Entrepreneurship and Innovation Management), School of Industrial Engineering Management, Royal Institute of Technology, Sweden.
+* Oct. 2019 - Sept. 2022     Doctor in Informatics, Graduate School of Informatics, Nagoya University, Japan.
+* Sept. 2009 - Aug. 2010     Master of Science in Industrial Economics, School of Industrial Engineering Management, Royal Institute of Technology, Sweden.
 * Sept. 2007 - Sept 2008     Master of Research in Regenerative Medicine, Department of Biology & Biochemistry, University of Bath, UK. 
 
 # Publications
