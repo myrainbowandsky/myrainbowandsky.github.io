@@ -20,7 +20,7 @@ layout: default
 
 Are you ready to dive into cutting-edge research that bridges technology and society? We are looking for **enthusiastic, open-minded, and creative thinkers** to join our team as **Ph.D. or Master's students**.  
 
-Our research focuses on **Machine Behaviors, Intelligent Psychology, AI agents, AI cooperation, LLMs**, offering a unique opportunity to explore the interplay between science, society, and technology. Whether your background is in **Artificial Intelligence, Mathematics, Psychnology, Cybersecurity, Physics, Statistics, Bioinformatics, Informatics**, we believe in the power of interdisciplinary collaboration to solve complex, real-world problems.  
+Our research focuses on **Machine Behaviors, Intelligent Psychology, AI agents, AI cooperation, LLMs**, offering a unique opportunity to explore the interplay between science, society, and technology. Whether your background is in **Artificial Intelligence, Mathematics, Psychology, Cybersecurity, Physics, Statistics, Bioinformatics, Informatics**, we believe in the power of interdisciplinary collaboration to solve complex, real-world problems.  
 
 ## Why Join Us?  
 - **Innovative Research:**  
