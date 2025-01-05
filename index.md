@@ -20,7 +20,7 @@ layout: default
 
 Are you ready to dive into cutting-edge research that bridges technology and society? We are looking for **enthusiastic, open-minded, and creative thinkers** to join our team as **Ph.D. or Master's students**.  
 
-Our research focuses on **computational social science, AI agents, complex networks, and large language models**, offering a unique opportunity to explore the interplay between science, society, and technology. Whether your background is in **STEM, social sciences, or politics**, we believe in the power of interdisciplinary collaboration to solve complex, real-world problems.  
+Our research focuses on **Machine Behaviors, Intelligent Psychology, AI agents, AI cooperation, LLMs**, offering a unique opportunity to explore the interplay between science, society, and technology. Whether your background is in **STEM, social sciences, or politics**, we believe in the power of interdisciplinary collaboration to solve complex, real-world problems.  
 
 ## Why Join Us?  
 - **Innovative Research:**  
@@ -57,7 +57,7 @@ This reality is especially challenging for young and talented researchers. Despi
 
 To address this imbalance, I propose a simple yet powerful solution: collaboration. Let us work together, pooling our ideas, skills, and resources to pursue compelling research topics. By fostering cooperation and mutual support, we can create a win-win situation where every participant, regardless of their current standing, has the opportunity to produce impactful work.
 
-Currently, we are exploring several exciting ideas in computational social science, and I aspire for our work to be published in leading journals such as Nature, Nature Communications, Humanities & Social Sciences Communications, Nature Machine Intelligence, and Nature Human Behaviour.
+Currently, we are exploring several exciting ideas in machine behaviors, and I aspire for our work to be published in leading journals such as Nature, Nature Communications, Humanities & Social Sciences Communications, Nature Machine Intelligence, and Nature Human Behaviour.
 
 Let’s unite our efforts to demonstrate that "small names" can achieve extraordinary results. If you are interested in collaborating, I would be thrilled to discuss ideas and opportunities further.
 
