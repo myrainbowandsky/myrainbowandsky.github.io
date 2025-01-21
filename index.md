@@ -13,7 +13,7 @@ layout: default
 * Wentao Xu (Doctor of Informatics)
 * Associate Researcher
 * Department of Science and Technology of Communication, University of Science and Technology of China (USTC)
-* Research Interests: Intelligent psychology, AI Agent, AI cooperation, Artificial Intelligence, Larger Language Models.
+* Research Interests: Intelligent psychology, Intelligent behavior, AI Agent, AI cooperation, Artificial Intelligence, Larger Language Models.
 * Email: myrainbowandsky[aT]gmail.com
 
 # News
