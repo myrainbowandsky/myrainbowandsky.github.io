@@ -77,7 +77,7 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 # Publications
 
 * **`Wentao Xu`** 2024. Characterization of Political Polarized Users Attacked by Language Toxicity on Twitter. In Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing (CSCW Companion '24). Association for Computing Machinery, New York, NY, USA, 185–189. [https://doi.org/10.1145/3678884.3681849](https://dl.acm.org/doi/10.1145/3678884.3681849)
-* Xu, Wentao, Kazutoshi Sasahara, Jianxun Chu, Bin Wang, Wenlu Fan, Zhiwen Hu. "A multidisciplinary framework for deconstructing bots' pluripotency in dualistic antagonism." [arXiv:2402.15119, 2024](https://arxiv.org/abs/2402.15119).
+* **`Wentao Xu`**, Kazutoshi Sasahara, Jianxun Chu, Bin Wang, Wenlu Fan, Zhiwen Hu. "A multidisciplinary framework for deconstructing bots' pluripotency in dualistic antagonism." [arXiv:2402.15119, 2024](https://arxiv.org/abs/2402.15119).
 * **`Wentao Xu`**, Kazutoshi Sasahara. "Domain-based user embedding for competing events on social media." [arXiv:2308.14806, 2023](https://arxiv.org/abs/2308.14806).
 * **`Wentao Xu`** and Kazutoshi Sasahara (2022), "A Network-Based Approach to QAnon User Dynamics and Topic Diversity During the COVID-19 Infodemic", APSIPA Transactions on Signal and Information Processing: Vol. 11: No. 1, e17,[http://dx.doi.org/10.1561/116.00000055](http://dx.doi.org/10.1561/116.00000055), 
 * **`Wentao Xu`** and Kazutoshi Sasahara Characterizing the roles of bots on Twitter during the COVID-19 infodemic. J Comput Soc Sc 5, 591–609 (2022). [https://doi.org/10.1007/s42001-021-00139-3](https://doi.org/10.1007/s42001-021-00139-3)
