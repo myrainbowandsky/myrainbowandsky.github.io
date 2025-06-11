@@ -15,6 +15,7 @@ layout: default
 * Department of Science and Technology of Communication, University of Science and Technology of China (USTC)
 * Research Interests: Intelligent psychology, Intelligent behavior, AI Agent, AI cooperation, Artificial Intelligence, Large Language Model.
 * Email: myrainbowandsky[aT]gmail.com
+* Awesome Drawing tools for Neural Net Architecture for AI students and researchers: https://john-smith-is-me.github.io/
 
 # News
 * **`Xu, W.`**<sup>**`*`**</sup>,Sasahara, K., Chu, J. et al. Social media warfare: investigating human-bot engagement in English, Japanese and German during the Russo-Ukrainian war on Twitter and Reddit. EPJ Data Sci. 14, 10 (2025). [https://doi.org/10.1140/epjds/s13688-025-00528-y](https://doi.org/10.1140/epjds/s13688-025-00528-y)
