@@ -20,8 +20,8 @@ layout: default
 
 # News
 The papers of my lab are accepted by ICWSM 2026 (Los Angeles, California).
-1. Yan, Yile, Yuqi Zhu, Wentao Xu. "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude." arXiv:2501.10484, 2025.
-2. Xu, Wentao, Wenlu Fan, Shiqian Lu, Tenghao Li, Bin Wang. "Polarized Patterns of Language Toxicity and Sentiment of Debunking Posts on Social Media." arXiv:2501.06274, 2025.
+1. Yan, Yile, Yuqi Zhu, Wentao Xu. "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude." [arXiv:2501.10484](https://arxiv.org/abs/2501.10484), 2025.
+2. Xu, Wentao, Wenlu Fan, Shiqian Lu, Tenghao Li, Bin Wang. "Polarized Patterns of Language Toxicity and Sentiment of Debunking Posts on Social Media." [arXiv:2501.06274](https://arxiv.org/abs/2501.06274), 2025.
 
 * **`Xu, W.`**<sup>**`*`**</sup>,Sasahara, K., Chu, J. et al. Social media warfare: investigating human-bot engagement in English, Japanese and German during the Russo-Ukrainian war on Twitter and Reddit. EPJ Data Sci. 14, 10 (2025). [https://doi.org/10.1140/epjds/s13688-025-00528-y](https://doi.org/10.1140/epjds/s13688-025-00528-y)
 * Yan, Yile, Yuqi Zhu, **`Wentao Xu`**<sup>**`*`**</sup>. "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude." [arXiv:2501.10484, 2025](https://arxiv.org/abs/2501.10484).
