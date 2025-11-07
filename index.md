@@ -12,11 +12,9 @@ layout: default
 
 * Wentao Xu (Doctor of Informatics)
 * Associate Professor
-* Department of Science and Technology of Communication, University of Science and Technology of China (USTC)
+* USTC Data Science Lab, School of Information Science and Technology, University of Science and Technology of China (USTC)
 * Research Interests: Intelligent psychology, Intelligent behavior, AI Agent, AI cooperation, Artificial Intelligence, Large Language Model.
 * Email: myrainbowandsky[aT]gmail.com
-* Awesome Drawing tools for Neural Net Architecture for AI students and researchers: [https://john-smiths-is-me.github.io/
-](https://john-smiths-is-me.github.io/)
 
 # News
 The papers of my lab are accepted by ICWSM 2026 (Los Angeles, California).
