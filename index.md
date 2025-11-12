@@ -99,8 +99,9 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 * **`Wentao Xu`** and Kazutoshi Sasahara, Fake News Characterization Using Linguistic Features at The Fourth Computational Social Science Japan Workshop (CSSJ 2020), Kobe University, Feb 2020 
 
 # Academic Service:
+
 * Guest Editor for PLOSONE
-* Reviewed for Frontiers in Public Health, section Infectious Diseases – Surveillance, Prevention and Treatment, Journal of Social Media + Society, Journal of Frontiers in Physics （section Social Physics）
+* Reviewed for Frontiers in Public Health, section Infectious Diseases – Surveillance, Prevention and Treatment, Journal of Social Media + Society, Journal of Frontiers in Physics （section Social Physics），Chinese Journal of Computers (计算机学报)
 
 # Award
 * Oct. 2020, Interdisciplinary Frontier Next Generation Researcher, The Program is implemented by JST’s Challenging Research Program for Next Generation Researchers, and the Tokai National Higher Education and Research System (THERS).
