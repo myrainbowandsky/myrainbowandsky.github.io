@@ -24,7 +24,7 @@ The papers of my lab are accepted by ICWSM 2026 (Los Angeles, California).
 4. Ren, M., & **Xu, W.**<sup>**`*`**</sup> (2025). The Impact of Big Five Personality Traits on AI Agent Decision-Making in Public Spaces: A Social Simulation Study. Springer Science and Business Media LLC. [https://doi.org/10.21203/rs.3.rs-5936825/v1]([https://doi.org/10.21203/rs.3.rs-5936825/v1)
 5. Lou, Qianmin, **`Wentao Xu`**<sup>**`*`**</sup>. "Personality Modeling for Persuasion of Misinformation using AI Agent." [arXiv:2501.08985, 2025](https://arxiv.org/abs/2501.08985) (11th International Conference on Computational Social Science
 Norrköping, Sweden | July 21-24, 2025) (peer-reviewed).
-6. **`Wentao Xu`**<sup>**`*`**</sup>, Wenlu Fan, Shiqian Lu, Tenghao Li, Bin Wang. "Polarized Patterns of Language Toxicity and Sentiment of Debunking Posts on Social Media." [arXiv:2501.06274, 2025](https://arxiv.org/abs/2501.06274).
+6. **`Wentao Xu`**<sup>**`*`**</sup>, Wenlu Fan, Shiqian Lu, Tenghao Li, Bin Wang. "Polarized Patterns of Language Toxicity and Sentiment of Debunking Posts on Social Media." [arXiv:2501.06274, 2025](https://arxiv.org/abs/2501.06274) (peer-reviewed).
 
 # For perspective students
 
