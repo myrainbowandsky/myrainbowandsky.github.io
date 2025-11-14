@@ -100,7 +100,6 @@ Let’s unite our efforts to demonstrate that "small names" can achieve extraord
 
 # Academic Service:
 
-* Guest Editor for PLOSONE
 * Reviewed for Frontiers in Public Health, section Infectious Diseases – Surveillance, Prevention and Treatment, Journal of Social Media + Society, Journal of Frontiers in Physics （section Social Physics），Chinese Journal of Computers (计算机学报)
 
 # Award
